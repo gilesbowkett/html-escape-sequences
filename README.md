@@ -1,3 +1,7 @@
+# warning
+
+This is an experimental fork of jasonmahr's repo to determine if I can resolve a dependency conflict.
+
 # html-escape-sequences
 
 Use HTML escape sequences with elm-lang/html.
